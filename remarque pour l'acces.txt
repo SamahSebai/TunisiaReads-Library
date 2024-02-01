@@ -1,0 +1,5 @@
+Lorsque nous créons un nouvel utilisateur, celui-ci est automatiquement attribué au rôle "USER" par défaut. 
+
+Cependant, afin d'assurer une gestion efficace et sécurisée des comptes, il est impératif de modifier manuellement le rôle de l'utilisateur nouvellement créé vers le rôle "ADMIN".
+
+Cette démarche vise à garantir un accès approprié aux fonctionnalités et aux autorisations nécessaires dès la création du compte, optimisant ainsi la fluidité des opérations administratives.
