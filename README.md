@@ -76,6 +76,4 @@ The TunisiaReads Library project is a Spring Boot-based application that allows 
 
 ![MakeSense image selection page](https://github.com/SamahSebai/TunisiaReads-Library/blob/main/capture%20d'ecran/page%20book%20admin.png)
 
-**Data Base page**
 
-![MakeSense image selection page](https://github.com/SamahSebai/TunisiaReads-Library/blob/main/capture%20d'ecran/base%20de%20donnees%20bookDB.png)
