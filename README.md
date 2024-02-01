@@ -63,3 +63,19 @@ The TunisiaReads Library project is a Spring Boot-based application that allows 
 ## Database Configuration
 
 - XAMPP is used for the database. Set up your database using the provided `application.properties` file
+
+**Home User page**
+
+![MakeSense image selection page](https://github.com/SamahSebai/TunisiaReads-Library/blob/main/capture%20d'ecran/home%20user.png)
+
+**Home Admin page**
+
+![MakeSense image selection page](https://github.com/SamahSebai/TunisiaReads-Library/blob/main/capture%20d'ecran/page%20home%20admin.png)
+
+**book Admin page**
+
+![MakeSense image selection page](https://github.com/SamahSebai/TunisiaReads-Library/blob/main/capture%20d'ecran/page%20book%20admin.png)
+
+**Data Base page**
+
+![MakeSense image selection page](https://github.com/SamahSebai/TunisiaReads-Library/blob/main/capture%20d'ecran/base%20de%20donnees%20bookDB.png)
